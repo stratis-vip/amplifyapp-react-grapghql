@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifyappreactgrapg8772bd66": {}
+      },
+      "api": {
+        "amplifyappreactgrapg": {}
+      },
+      "storage": {
+        "amplifyExampleS3": {}
       }
     }
   }
